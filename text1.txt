@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6ED0-0D1B
+
+ Directory of C:\Users\bikesh.rai\Desktop\Git\New folder
+
+11-01-2023  17:37    <DIR>          .
+11-01-2023  17:37    <DIR>          ..
+11-01-2023  17:29               356 text.txt
+11-01-2023  17:37                 0 text1.txt
+               2 File(s)            356 bytes
+               2 Dir(s)   6,038,216,704 bytes free
