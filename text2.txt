@@ -10,3 +10,4 @@
 11-01-2023  17:43                 0 text2.txt
                3 File(s)            759 bytes
                2 Dir(s)   6,032,826,368 bytes free
+I'm learning git hub by cmd
